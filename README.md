@@ -61,42 +61,25 @@
 
 ## 📊 GitHub Stats
 
-### 🆕 Current Account
-
 <p align="center">
-  <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmitKumarKoli67&theme=tokyonight&cache_seconds=3600" />
-</p> height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarKoli67&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKumarKoli67&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarKoli67&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarKoli67&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumarKoli67&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🗂️ Previous GitHub Account
+## 🗂️ My Coding Journey
 
-> ⚠️ I lost access to my old account due to 2FA issues — but years of hard work, projects & contributions live there!
+> 📌 Before this account, I built and shipped projects on an older GitHub profile for years — including a solid **2–3 month coding streak** and plenty of real, hands-on commits — before losing access to it due to a 2FA issue. That account laid the foundation for everything I build today, and this profile is where I'm now actively continuing that journey.
 
 <p align="center">
   <a href="https://github.com/Amitkumarkoli" target="_blank">
-    <img src="https://img.shields.io/badge/My_Old_GitHub-@Amitkumarkoli-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Older_Projects-@Amitkumarkoli-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-</p>
-
-📌 This account holds my **early projects, real commits & learning journey** — the foundation of everything I know today.
-
-### 📈 Old Account Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitkumarkoli&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkumarkoli&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitkumarkoli&theme=tokyonight" />
 </p>
 
 ---
