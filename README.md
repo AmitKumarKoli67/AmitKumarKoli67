@@ -19,7 +19,7 @@
 - 🔥 Currently exploring **Firebase**, **BLoC/Riverpod**, and **REST APIs**
 - 💡 I love turning ideas into beautiful, functional apps
 - 🤝 Open to **internships**, **freelance projects** & **open-source collabs**
-- ⚡ Fun fact: I debug better with chai ☕
+- ⚡ Fun fact: I write code that works… and then immediately wonder why
 
 ---
 
