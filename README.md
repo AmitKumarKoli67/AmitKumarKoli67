@@ -1,5 +1,4 @@
 <!-- Profile README for Amit Kumar Koli -->
-
 <h1 align="center">Hi there, I'm Amit Kumar Koli 👋</h1>
 
 <p align="center">
